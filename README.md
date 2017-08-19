@@ -9,10 +9,10 @@ Worked on following 3 projects –
  2. Write these selected properties to a HDF file
  3. A `to_hdf` method that combines both of these methods.
 
-•	It determines, how these properties will be uniformly stored, such as scalars , 1D or 2D objects.        
-•	Implemented unit tests for the same using Mock setups.
-•	It can easily be extended and inherited, eliminating the need of implementing HDF functionalities in separate classes.
-•	Wrote Documentation for the same.
+•	It determines, how these properties will be uniformly stored, such as scalars , 1D or 2D objects.          
+•	Implemented unit tests for the same using Mock setups.  
+•	It can easily be extended and inherited, eliminating the need of implementing HDF functionalities in separate classes.  
+•	Wrote Documentation for the same.  
 
 ### Related PRs
 [PR#744](https://github.com/tardis-sn/tardis/pull/744) -  HDFWriter class + Unit Tests  
@@ -26,10 +26,10 @@ Worked on following 3 projects –
 
 
 ## Isotope handling within TARDIS
-•	Extended current Tardis Configuration System to support parsing of Isotopic Elements.
-•	Using Pyne library , decayed isotopic elements , and then merge it into normal elemental elements abundance dataframe. 
-•	Wrote a console script to convert CMFGEN files into TARDIS format. 
-•	Unit tests and Documentation for the same.
+•	Extended current Tardis Configuration System to support parsing of Isotopic Elements.  
+•	Using Pyne library , decayed isotopic elements , and then merge it into normal elemental elements abundance dataframe.    
+•	Wrote a console script to convert CMFGEN files into TARDIS format.   
+•	Unit tests and Documentation for the same.  
 
 ### Related PRs
 [PR#756](https://github.com/tardis-sn/tardis/pull/756) - Isotope Abundances class  
@@ -42,8 +42,8 @@ Worked on following 3 projects –
 
 
 ## Testing Framework for multiple reference data 
-•	Working on adding ability to test and generate reference data for Plasma module of TARDIS.
-•	It will allow to test Plasma module and easily expand it to add new references. 
+•	Working on adding ability to test and generate reference data for Plasma module of TARDIS.  
+•	It will allow to test Plasma module and easily expand it to add new references.    
 
 ### Related PRs
 
