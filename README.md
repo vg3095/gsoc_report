@@ -1,5 +1,7 @@
 # GSOC Work Report
 
+All PR's Link - https://github.com/tardis-sn/tardis/pulls/vg3095 
+
 Worked on following 3 projects – 
 ## HDF Data Storage Capabilities
 •	Implemented a `HDFWriterMixin` class , which have these functions - 
@@ -42,11 +44,18 @@ Worked on following 3 projects –
 
 
 ## Testing Framework for multiple reference data 
-•	Working on adding ability to test and generate reference data for Plasma module of TARDIS.  
+•	Worked on adding ability to test and generate reference data for Plasma module of TARDIS.  
 •	It will allow to test Plasma module and easily expand it to add new references.    
 
 ### Related PRs
 
 [PR#775](https://github.com/tardis-sn/tardis/pull/775) - Transition from atomic-dataset config option to tardis-refdata  
 [PR#779](https://github.com/tardis-sn/tardis/pull/779) - Save coverage report when tests use tardis-refdata  
-[PR#774](https://github.com/tardis-sn/tardis/pull/774) - Replace Comparison values in Plasma Unit Tests with reference HDF file  
+[PR#774](https://github.com/tardis-sn/tardis/pull/774) - Replace Comparison values in Plasma Unit Tests with reference HDF file   
+[PR#781](https://github.com/tardis-sn/tardis/pull/781) - Omit coverage of test related files  
+[PR#782](https://github.com/tardis-sn/tardis/pull/782) - Plasma write_to_tex/dot unit tests  
+[PR#785](https://github.com/tardis-sn/tardis/pull/785) -  Update Running tests doc  
+
+### Others
+[PR#712](https://github.com/tardis-sn/tardis/pull/712) - Colorize Logger
+
